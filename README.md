@@ -5,7 +5,7 @@ The project was made by me in 23 min
 
 ## Live Demo 
 
-
+https://lm10fan.github.io/digital-clock/
 
 
 
